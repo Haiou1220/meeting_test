@@ -1,0 +1,3 @@
+#ctvt online application test1 of 2
+#输入二进制数 输出十进制数
+#现在以cpp编写,,,,,
